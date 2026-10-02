@@ -14,6 +14,16 @@ The producer server is remote HTTP. There is no package to install. When the cli
 
 MCP calls are `POST /` and require that sign-in. A browser open of the same URL is a read-only tool list.
 
+## Hey Tilley
+
+Hey Tilley is the Tilley chat client. Use it when you do not have your own agent, such as Cursor, Copilot, Claude, or ChatGPT.
+
+**https://chat.totilley.com/**
+
+Sign in with your Tilley account. Hey Tilley is already connected to the Tilley MCP, so there is no server to add. The skill install steps further down are for an agent you run yourself.
+
+## Connect your agent
+
 ### Cursor
 
 Settings, MCP, or a config file. Project: `.cursor/mcp.json`. Every project: `~/.cursor/mcp.json`.
