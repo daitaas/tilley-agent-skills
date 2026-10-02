@@ -1,0 +1,3 @@
+interface:
+  display_name: "Tilley budgets"
+  short_description: "Enterprise budgets, cost of production, and line items"

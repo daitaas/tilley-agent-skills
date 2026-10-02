@@ -1,0 +1,26 @@
+{
+  "name": "tilley-skills",
+  "version": "0.1.0",
+  "description": "Tilley agent skills for farms, marketing, insurance, budgets, and ARC/PLC. Figures come from the Tilley MCP in the current session.",
+  "author": {
+    "name": "daitaas",
+    "url": "https://github.com/daitaas"
+  },
+  "homepage": "https://www.farmtilley.com/",
+  "repository": "https://github.com/daitaas/tilley-agent-skills",
+  "keywords": [
+    "tilley",
+    "farms",
+    "insurance",
+    "marketing",
+    "mcp",
+    "skills"
+  ],
+  "skills": [
+    "./skills/tilley-farm",
+    "./skills/tilley-marketing",
+    "./skills/tilley-insurance",
+    "./skills/tilley-arc-plc",
+    "./skills/tilley-budget"
+  ]
+}

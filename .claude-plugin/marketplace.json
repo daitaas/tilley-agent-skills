@@ -1,0 +1,22 @@
+{
+  "name": "daitaas",
+  "owner": {
+    "name": "daitaas",
+    "url": "https://github.com/daitaas"
+  },
+  "description": "Tilley agent skills, as an installable Claude Code plugin.",
+  "plugins": [
+    {
+      "name": "tilley-skills",
+      "source": "./",
+      "description": "Farms, marketing, insurance, budgets, and ARC/PLC grounded in the Tilley MCP.",
+      "category": "productivity",
+      "keywords": [
+        "tilley",
+        "farms",
+        "insurance",
+        "marketing"
+      ]
+    }
+  ]
+}
